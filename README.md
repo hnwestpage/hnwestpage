@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematical modeling of healthcare systems, dynamical systems, and machine learning.
 - 🌱 I’m currently learning about queueing theory models
 - 📫 Reach out to me at: hwest10@charlotte.edu
-- 😄 Pronouns: they/them/theirs
+- 😄 Pronouns: she/they
 - ⚡ Fun fact: I love vintage social dance!
 
 <!---
